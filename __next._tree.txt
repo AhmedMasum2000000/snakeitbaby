@@ -1,0 +1,2 @@
+:HL["/snakeitbaby/_next/static/chunks/197d483b04f42d32.css","style"]
+0:{"buildId":"4ptOL9lIxA8552HqVg4GM","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
